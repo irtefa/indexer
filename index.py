@@ -5,9 +5,9 @@ from parse_rest.connection import register
 from parse_rest.datatypes import Object
 
 #all the API keys
-parse_app_id = 'mt3hKgyAb78AdVtBBfhLLKmFUKPXK83LFYAvnN7T'
-parse_master_key = 'mYyQpI9YfDO3y6qypLAIE8dgwFQW7TurpnHzsFdb'
-rest_api_key = 'uUvnTUh6yJKQbKEm0lnkm21LGpKHdgSprWJY0ykO'
+parse_app_id = '#'
+parse_master_key = '#'
+rest_api_key = '#'
 
 #required host names
 elasticsearch_host = 'http://ec2-54-237-2-191.compute-1.amazonaws.com:9200/metadata/'
